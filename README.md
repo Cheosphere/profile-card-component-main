@@ -5,6 +5,8 @@ El desafío es desarrollar este componente de la tarjeta de perfil y lograr que 
 - HTML
 - CSS
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/188249581-8591d80f-3e0e-40f4-9bd7-6a83d1c5548b.jpg)
+
 # Guía de Estilo
 
 ## Diseño
