@@ -12,6 +12,7 @@ body {
 }
 
 body {
+    min-height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -128,6 +129,7 @@ hr {
 .patterns_background {
     width: 100vw;
     height: 100vh;
+    min-height: 500px;
     display: grid;
     grid-template-columns: 1fr 20px 35px 1fr;
     grid-template-rows: .975fr 92px .66fr;
@@ -151,18 +153,6 @@ hr {
 }
 
 /* MEDIA QUERY */
-@media screen and (max-width: 768px) {
-
-    body {
-        min-height: 500px;
-    }
-
-    .patterns_background {
-        min-height: 500px;
-    }
-
-}
-
 @media screen and (max-width: 450px) {
 
     .card {
